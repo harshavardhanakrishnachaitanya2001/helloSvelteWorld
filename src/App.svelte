@@ -1,6 +1,6 @@
 <div class='main'>
 	<h1>Hello Svelte world</h1>
-	<h2>Created by: Harshavardhan</h2>
+	<h2>Created by Harshavardhan using svelteJS</h2>
 </div>
 
 <style>
